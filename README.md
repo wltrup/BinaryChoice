@@ -5,6 +5,9 @@
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/wltrup/BinaryChoice)
 ![GitHub](https://img.shields.io/github/license/wltrup/BinaryChoice)
 
+## IMPORTANT
+2024.04.02: This project has been **deprecated**.
+
 ## What
 
 **BinaryChoice** is a Swift Package Manager package for iOS/tvOS (10.0 and above), watchOS (4.0 and above), and macOS (10.14 and above), under Swift 5.0 and above,  defining protocols for types that can be initialised from a boolean value and/or can be represented by a boolean value:
